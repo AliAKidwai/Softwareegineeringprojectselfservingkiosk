@@ -11,4 +11,5 @@ elif rating == 4:
      print("We are glad you enjoyed in our cafe!")
 elif rating == 5:
      print("Awesome, hope you have wonderful day!")
+#quit()
 
